@@ -1,0 +1,11 @@
+{
+  "name": "Bacmtk-chat",
+  "version": "1.0.0",
+  "description": "A chat application project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "karemanghanem222-cmd",
+  "license": "ISC"
+}
